@@ -1,64 +1,64 @@
-824
+G824
 The Legend of Zelda: Breath of the Wild
 Nintendo
 Adventure
 2017/03/03
 y
-113
+G113
 God of War
 Santa Monica Studio
 Action
 2018/04/20
 y
-789
+G789
 Minecraft
 Mojang Studios
 Sandbox
 2011/11/18
 y
-376
+G376
 The Witcher 3: Wild Hunt
 CD Projekt Red
 Role-playing
 2015/05/19
 y
-592
+G592
 Hollow Knight
 Team Cherry
 Metroidvania
 2017/02/24
 y
-941
+G941
 Elden Ring
 FromSoftware
 Role-playing
 2022/02/25
 y
-118
+G118
 Portal 2
 Valve
 Puzzle
 2011/04/19
 y
-657
+G657
 Hades
 Supergiant Games
 Roguelike
 2020/09/17
 y
-311
+G311
 Stardew Valley
 ConcernedApe
 Simulation
 2016/02/26
 y
-865
+G865
 Red Dead Redemption 2
 Rockstar Games
 Adventure
 2018/10/26
 y
-479
+G479
 Grand Theft Auto VI
 Rockstar Games
 Action
