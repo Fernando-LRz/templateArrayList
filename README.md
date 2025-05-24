@@ -1,5 +1,5 @@
 # Template Array List
-A simple C++ implementation of a fixed-size, template-based array list to store elements of any type.
+C++ implementation of a fixed-size, template-based array list to store elements of any type.
 
 ## Build and Run
 
